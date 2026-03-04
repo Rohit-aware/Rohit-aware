@@ -1,50 +1,53 @@
 <h1 align="center">Hi 👋 I'm Rohit Aware</h1>
-<h3 align="center">React Native Developer | Performance & UI Specialist</h3>
+<h3 align="center">Senior React Native Developer | Performance • Architecture • Native Integrations</h3>
 
 ---
 
 # 💫 About Me
 
-🔭 Building scalable, high-performance React Native applications  
-👯 Open to collaborating on production-grade mobile apps and reusable UI libraries  
-🤝 Helping developers debug complex UI issues, performance bottlenecks, gesture systems, and native integrations  
-🌱 Currently exploring the Expo ecosystem, advanced animations, and mobile architecture patterns  
-💬 Ask me about React Native internals, Reanimated, Gesture Handler v2, Zustand/Redux, and clean architecture  
-⚡ I enjoy building complex UI components from scratch and optimizing them for smooth performance  
+🔭 Building scalable, production-grade React Native applications  
+🚀 Experienced in large-scale app architecture, performance tuning, and complex UI systems  
+🛠️ Successfully migrated React Native projects from **0.64 → 0.72.9 → 0.79.2**, resolving native dependency conflicts and breaking changes  
+👯 Open to collaborating on high-performance mobile apps and reusable component libraries  
+💬 Ask me about React Native internals, Reanimated, Gesture Handler v2, state management, native modules, and clean architecture  
+⚡ I specialize in building complex UI components from scratch with smooth animations and optimized rendering  
 
 ---
 
-## 🚀 What I Focus On
-- ⚡ Performance Optimization  
-- 🎯 Complex UI Components  
-- 🎬 Smooth Animations (Reanimated)  
-- 🧠 Clean Architecture  
-- 🔄 Gesture-Based Interactions  
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitaware)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awarerohit01@gmail.com)
+## 🚀 Core Expertise
+- ⚡ Performance Optimization & Re-render Control
+- 🎯 Complex UI Systems (Bottom Sheets, Sliders, Gesture Interactions)
+- 🎬 Advanced Animations (Reanimated 2/3)
+- 🔄 Gesture-Based Architecture
+- 🧠 Scalable Project Structure & Clean Code
+- 🔁 React Native Version Migrations & Native Dependency Management
 
 ---
 
 # 💻 Tech Stack
 
-### 📱 Mobile
-React Native • TypeScript • Expo • Redux • Zustand • Reanimated • Gesture Handler  
+## 📱 Mobile
+React Native • TypeScript • Expo  
+Reanimated • Gesture Handler  
+Redux • Zustand  
 
-### 🔌 Native
-Kotlin • Objective-C  
+## 🔌 Native Development
+Kotlin • Java • Swift • Objective-C  
 
-### 🌐 Backend & APIs
-GraphQL • Firebase • Laravel • PHP  
+## 🌐 Backend & APIs
+Node.js • GraphQL • Firebase • Laravel • PHP  
 
-### 🧪 Testing & Quality
+## 🧪 Testing & Monitoring
 Jest • Testing Library • Sentry  
 
-### ⚙️ DevOps & Tools
+## ⚙️ DevOps & Tooling
 Git • GitHub Actions • Docker • Figma  
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitaware)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awarerohit01@gmail.com)
 
 ---
 
@@ -52,10 +55,5 @@ Git • GitHub Actions • Docker • Figma
 ![](https://github-readme-stats.vercel.app/api?username=Rohit-aware&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Rohit-aware)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-aware&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rohit-aware)
 
 ---
