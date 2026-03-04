@@ -74,6 +74,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase App Distribution](https://img.shields.io/badge/Firebase%20App%20Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
