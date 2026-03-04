@@ -5,32 +5,25 @@
 
 # 💫 About Me
 
-🔭 Building scalable, high-performance React Native applications  
-
-🚀 Experienced in production-grade mobile architecture, performance tuning, and complex UI systems  
-
-🛠️ Successfully migrated React Native projects from **0.64 → 0.72.9 → 0.79.2**, resolving native dependency conflicts and breaking changes  
-
-🎮 Integrated Unity game modules inside React Native applications using native bridging  
-
-🔄 Implemented Over-the-Air (OTA) update systems for faster release cycles  
-
-☁️ Worked with modern BaaS platforms including Appwrite, Convex, and Firebase  
-
-💬 Ask me about React Native internals, Reanimated, Gesture Handler v2, native modules, state management, and clean architecture  
-
-⚡ I enjoy building complex UI components from scratch and optimizing them for smooth performance  
+🔭 Building scalable, high-performance React Native applications.  
+🔄 Implemented Over-the-Air (OTA) update systems for faster release cycles.  
+☁️ Worked with modern BaaS platforms including Appwrite, Convex, and Firebase.  
+🎮 Integrated Unity game modules inside React Native applications using native bridging.  
+⚡ I enjoy building complex UI components from scratch and optimizing them for smooth performance.  
+🚀 Experienced in production-grade mobile architecture, performance tuning, and complex UI systems.  
+💬 Ask me about React Native internals, Reanimated, Gesture Handler v2, native modules, state management, and clean architecture.  
+🛠️ Successfully migrated React Native projects from **0.64 → 0.72.9 → 0.79.2**, resolving native dependency conflicts and breaking changes.  
 
 ---
 
 ## 🧠 Advanced Experience
 
-• React Native Version Migrations (0.64 → 0.72.9 → 0.79.2)  
-• Unity Game Integration within React Native  
-• OTA Update System Integration  
-• Native Module Development & Bridging  
-• Performance Optimization & Render Control  
-• Complex Gesture & Animation Systems  
+• React Native Version Migrations (0.64 → 0.72.9 → 0.79.2).  
+• Unity Game Integration within React Native.  
+• OTA Update System Integration.  
+• Native Module Development & Bridging.  
+• Performance Optimization & Render Control.  
+• Complex Gesture & Animation Systems.  
 
 ---
 
