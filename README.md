@@ -21,7 +21,9 @@
 - 🔄 Gesture-Based Architecture
 - 🧠 Scalable Project Structure & Clean Code
 - 🔁 React Native Version Migrations & Native Dependency Management
-
+- 🎮 Unity Game Integration inside React Native apps
+- 🔄 Over-the-Air (OTA) Update System Integration
+- ☁️ BaaS Architecture (Appwrite, Convex, Firebase)
 ---
 
 # 💻 Tech Stack
@@ -36,6 +38,13 @@ Kotlin • Java • Swift • Objective-C
 
 ## 🌐 Backend & APIs
 Node.js • GraphQL • Firebase • Laravel • PHP  
+
+## ☁️ Backend as a Service (BaaS)
+Appwrite • Convex • Firebase  
+
+## 🎮 Game & Advanced Integrations
+Unity Game Integration (React Native Bridge)  
+OTA Update Systems (Stallion / Code Push style deployments)
 
 ## 🧪 Testing & Monitoring
 Jest • Testing Library • Sentry  
