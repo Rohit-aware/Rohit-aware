@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Rohit Aware</h1>
-<h3 align="center">Senior React Native Engineer | Performance • Architecture • Native Integrations</h3>
+<h3 align="center"> React Native Developer | Performance • Architecture • Native Integrations</h3>
 
 ---
 
