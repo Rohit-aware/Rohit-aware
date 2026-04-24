@@ -18,7 +18,7 @@
 
 ## 🧠 Advanced Experience
 
-• React Native Version Migrations (0.64 → 0.72.9 → 0.79.2).  
+• React Native Version Migrations (0.64 → 0.72.9 → 0.79.2 → 0.83.2).  
 • Unity Game Integration within React Native.  
 • OTA Update System Integration.  
 • Native Module Development & Bridging.  
