@@ -12,7 +12,7 @@
 ⚡ I enjoy building complex UI components from scratch and optimizing them for smooth performance.  
 🚀 Experienced in production-grade mobile architecture, performance tuning, and complex UI systems.  
 💬 Ask me about React Native internals, Reanimated, Gesture Handler v2, native modules, state management, and clean architecture.  
-🛠️ Successfully migrated React Native projects from **0.64 → 0.72.9 → 0.79.2**, resolving native dependency conflicts and breaking changes.  
+🛠️ Successfully migrated React Native projects from **0.64 → 0.72.9 → 0.79.2 → 0.83.2**, resolving native dependency conflicts and breaking changes.  
 
 ---
 
